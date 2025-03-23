@@ -26,8 +26,8 @@ This project presents an automated skin disease detection system that uses CNNs 
 1️⃣ Clone the Repository  
 
 ```
-git clone https://github.com/your-username/skin-disease-prediction.git
-cd skin-disease-prediction
+git clone https://github.com/SounakNandi/Skin-Disease-Prediction-App-using-Deep-Learning.git
+cd Skin-Disease-Prediction-App-using-Deep-Learning
 ```
 2️⃣ Install Dependencies
 ```
