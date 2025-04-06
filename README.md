@@ -38,15 +38,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-
-<h2>Model Architecture</h2>
-
-1️⃣ Convolutional Layers with ReLU activation and MaxPooling.  
-2️⃣ Flatten + Dense Layers with Softmax activation for multi-class classification.  
-3️⃣ Trained with Adam Optimizer (Learning Rate = 0.001) for 20 epochs.  
-4️⃣ Accuracy Achieved: XX% on validation data.  
-
-
 <h2>📜 Research Paper</h2>
 
 📄 This project is based on my research paper, [Skin Disease Detection by Convolutional Neural Networks- An Approach.](https://drive.google.com/file/d/1d4YEskGISrVcOPKPxKD1GfMgcSaGq80s/view?usp=sharing)  
