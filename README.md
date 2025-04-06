@@ -1,11 +1,11 @@
 <h1><b>Skin Disease Prediction App using Deep-Learning</b></h1>
 🚀 AI-powered skin disease detection using Convolutional Neural Networks (CNNs).  
-<h3><b>⚠ Disclaimer: This application is intended for research and educational purposes only. It is not a substitute for professional medical diagnosis. Please consult a dermatologist for an accurate assessment.</b></h3>
+
+<b> ⚠ DISCLAIMER: This application is intended for research and educational purposes only. It is not a substitute for professional medical diagnosis. Please consult a dermatologist for an accurate assessment.</b>
 
 <h2>📜 Research Paper</h2>
 
-📄 This project is based on my research paper, [Skin Disease Detection by Convolutional Neural Networks- An Approach.](https://drive.google.com/file/d/1d4YEskGISrVcOPKPxKD1GfMgcSaGq80s/view?usp=sharing)  
-Published in [International Journal of Scientific Research and Engineering Development (IJSRED)](www.ijsred.com), Volume 8, Issue 1, Jan-Feb 2025.
+📄 This project is based on my research paper, [Skin Disease Detection by Convolutional Neural Networks- An Approach](https://drive.google.com/file/d/1d4YEskGISrVcOPKPxKD1GfMgcSaGq80s/view?usp=sharing), published in [International Journal of Scientific Research and Engineering Development (IJSRED)](www.ijsred.com), Volume 8, Issue 1, Jan-Feb 2025.
 
 <h2>Demo</h2>
 Check out the demo video to see the app in action:
