@@ -5,7 +5,7 @@
 
 <h2>📜 Research Paper</h2>
 
-📄 This project is based on my research paper, [Skin Disease Detection by Convolutional Neural Networks- An Approach](https://drive.google.com/file/d/1d4YEskGISrVcOPKPxKD1GfMgcSaGq80s/view?usp=sharing), published in [International Journal of Scientific Research and Engineering Development (IJSRED)](www.ijsred.com), Volume 8, Issue 1, Jan-Feb 2025.
+This project is based on my research paper, [Skin Disease Detection by Convolutional Neural Networks- An Approach](https://drive.google.com/file/d/1d4YEskGISrVcOPKPxKD1GfMgcSaGq80s/view?usp=sharing), published in [International Journal of Scientific Research and Engineering Development (IJSRED)](www.ijsred.com), Volume 8, Issue 1, Jan-Feb 2025.
 
 <h2>Demo</h2>
 Check out the demo video to see the app in action:
